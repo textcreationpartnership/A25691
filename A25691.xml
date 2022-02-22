@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings and arguments of the counsel on both sides concerning the plea of Mr. Fitz-Harris to his indictment of high treason, at the Kings-Bench-Bar, in Westminster-Hall, on Saturday May the 7th, 1681</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25691</idno>
+            <idno type="STC">Wing A354</idno>
+            <idno type="STC">ESTC R15655</idno>
+            <idno type="EEBO-CITATION">11724209</idno>
+            <idno type="OCLC">ocm 11724209</idno>
+            <idno type="VID">48356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings and arguments of the counsel on both sides concerning the plea of Mr. Fitz-Harris to his indictment of high treason, at the Kings-Bench-Bar, in Westminster-Hall, on Saturday May the 7th, 1681</title>
+               </titleStmt>
+               <extent>1 sheet ([2]) p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Davies,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzharris, Edward, 1648?-1681 --  Trials, litigation, etc.</term>
+               <term>Trials (Treason) --  England --  London.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:48356:1" rendition="simple:additions"/>
+            <head>An ACCOUNT OF THE PROCEEDINGS and ARGUMENTS of the Counſel on both Sides, concerning the PLEA of M<hi rend="sup">r.</hi> Fitz-Harris, To his INDICTMENT of High Treaſon, <hi>At the</hi> Kings-Bench-Bar <hi>in</hi> Weſtminſter-Hall, <hi>on</hi> Saturday May <hi>the 7th.</hi> 1681.</head>
+            <p>
+               <hi>THIS day Mr.</hi> Edward Fitz-Harris <hi>was again brought to the Kings-Bench Bar: And, it being a Remarkable Caſe, there was a very numerous Auditory, and di<g ref="char:EOLhyphen"/>vers Lords, and Perſons of Quality; as the Duke of</hi> Monmouth, <hi>the Earl of</hi> Shaftsbury, <hi>Sir</hi> Robert Clay<g ref="char:EOLhyphen"/>ton, <hi>Mr Sheriff</hi> Corniſh, &amp;c. <hi>The Court was ſet between 8 and 9 a Clock in the Morning, and Mr. Attorney General maintained his Demurrer.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Becauſe, They had made a General Plea.</p>
+            <p>
+               <hi>Secondly,</hi> There was no Record mentioned in the Impeachment.</p>
+            <p>
+               <hi>Mr.</hi> Williams, <hi>the late Speaker of the Houſe of Commons, being the firſt That argued the Priſoner's Plea, made a very learned Diſcourſe, and cited many Precedents to confirm it; That Subſtance whereof was to make out,</hi>
+            </p>
+            <p>That, the Attourney General, and the KING's Counſel by their <hi>De<g ref="char:EOLhyphen"/>murrer</hi> did prove the Truth of Their Plea: and, That the Parliament had a Right to impeach any Commoner. Aſſerting likewiſe the Dignity and Excellency of Parliaments: and the Reſpect that in all Ages had been paid thereunto, both as to the Juriſdiction of the Lords, and likewiſe to the Rights and Priviledges of the Commons: and that when at any time here<g ref="char:EOLhyphen"/>tofore any ſuch weighty Matters came before the Judges, they wholy de<g ref="char:EOLhyphen"/>clin'd being concern'd therein, or were at least very tender in their Deter<g ref="char:EOLhyphen"/>mination.</p>
+            <p>
+               <hi>sir</hi> Frank Winnington <hi>being next, inſiſted upon the ſame Plea, and confirmed it with Three Reaſons:</hi>
+            </p>
+            <pb facs="tcp:48356:2"/>
+            <p>
+               <hi>I.</hi> That the Commons in PARLIAMENT were the Repreſen<g ref="char:EOLhyphen"/>tatives of ALL the People of England, and conſequently All the People have a ſhare in their Impeachment: and, therefore can neither be Judg nor Jury.</p>
+            <p>
+               <hi>II.</hi> He compared the Impeachment to an Appeal, and, that it was to be heard before an Indictment for the King: And, That by the Third of <hi>Henry</hi> the VII. in caſe of Murder, The King could not proceed in an Indictment, till a year and a day was allowed for an Appeal.</p>
+            <p>
+               <hi>III.</hi> The Queſtion is, whether, if <hi>Fitz-Harris</hi> be Tryed here and Ac<g ref="char:EOLhyphen"/>quitted, that will be a ſufficient Plea, if the Lords call him to an Account for the ſame; and that, if they could, it was contrary to our Law, in re<g ref="char:EOLhyphen"/>gard it would put a man in jeopardy of his Life twice for the ſame Crime, it being the Birth-right of an <hi>Engliſh-Man</hi> to anſwer but once for the ſame thing.</p>
+            <p>
+               <hi>Mr.</hi> Wallop <hi>and Mr.</hi> Pollexfen <hi>backt it with Precedents:</hi> As particularly in the Caſe of the Earl of <hi>Stafford,</hi> and the rest of the Lords in the <hi>Tower,</hi> who being Impeached in Parliament, it was concluded by all the Judges in <hi>England,</hi> That they could not be Tryed elſewhere: And likewiſe in the Caſe of the Earl of <hi>Shattsbury,</hi> who being committed Priſoner to the <hi>Tower</hi> by the Horſe of Lords, only for a miſdemeanour, yet it was reſolved by the Court of <hi>Kings-Bench,</hi> that they could take no Cognizance thereof.</p>
+            <p>
+               <hi>Mr. Attorney preſſed the inſufficientcy of their Plea, and, that the De<g ref="char:EOLhyphen"/>murrer ought to be Granted; adding,</hi> That if it were contrary to Law, God forbid it ſhould be done: <hi>and farther ſaid, That, in his Judgment, that Court had Power to Try him.</hi>
+            </p>
+            <p>
+               <hi>The Sollicitor General laboured to make it appear, That a man might be Tryed twice for the ſame thing, and that an Appeal and an Indictment might be within a year and a day.</hi>
+            </p>
+            <p>
+               <hi>Sir</hi> George Jefferies <hi>ſaid, That the Plea was deſective in Matter and Form, and that every man ought to ſearch his own Conſcience, and not be Bugbear'd out of his Reaſon, nor to decline doing Juſtice for fear of being called to an Account hereafter; and prayed his Lordſhip that it might be over-ruled.</hi>
+            </p>
+            <p>
+               <hi>Sir</hi> Francis Within <hi>and Mr.</hi> Saunders <hi>ſpake alſo what they thought ne<g ref="char:EOLhyphen"/>ceſſary to that point.</hi>
+            </p>
+            <p>
+               <hi>After which the Lord Chief Juſtice told them, He had heard all their Ar<g ref="char:EOLhyphen"/>guments, but thought it beſt to take a farther time to give in his Judgment, and not to run precipitately into matters of that nature; it being a Cauſe of great weight, and variety of Preſidents having been alledged on both ſides, and that it did therefore require deliberate Conſideration to ad<g ref="char:EOLhyphen"/>viſe upon all that had been ſaid, before the Court gave their Opinion in the Caſe, and hereupon the Judgment of the Court was deferred, and no certain day aſſigned.</hi>
+            </p>
+            <p>
+               <hi>It is Diſcourſed that Mr.</hi> Fitz-Harris <hi>being withdrawn, a motion was made that his Wife might have Liberty to go to ſee him, as ſhe had done late<g ref="char:EOLhyphen"/>ly, but that it was objected ſhe had abuſed her Liberty in that Caſe; but the reſult thereof we know not.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Davies.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
